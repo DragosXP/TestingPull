@@ -1,16 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.testingpull;
 
 /**
  *
- * @author GrayHat667
+ * @author Temmie
  */
 public class TestingPull {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        int y = 10;
+        int z = 667;
+        System.out.println("\n" + y);
     }
 }
